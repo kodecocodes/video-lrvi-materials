@@ -1,0 +1,123 @@
+{
+  "identifier" : "B1B0C334",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E60693B9",
+      "localizations" : [
+        {
+          "description" : "An that's done a great job",
+          "displayName" : "Good Job Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.GoodJobOwl",
+      "referenceName" : "Good Job Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "3B19E661",
+      "localizations" : [
+        {
+          "description" : "A very sleepy owl.",
+          "displayName" : "Good Night Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.GoodNightOwl",
+      "referenceName" : "Good Night Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A7F242BA",
+      "localizations" : [
+        {
+          "description" : "An owl deeply in love.",
+          "displayName" : "In Love Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.InLoveOwl",
+      "referenceName" : "In Love Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "BEBC6D13",
+      "localizations" : [
+        {
+          "description" : "A very sad and lonely owl",
+          "displayName" : "Lonely Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.LonelyOwl",
+      "referenceName" : "Lonely Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F7807DEF",
+      "localizations" : [
+        {
+          "description" : "This owl likes to stay up late.",
+          "displayName" : "Night Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.NightOwl",
+      "referenceName" : "Night Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A2C10139",
+      "localizations" : [
+        {
+          "description" : "A shy but friendly owl.",
+          "displayName" : "Shy Owl",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.ShyOwl",
+      "referenceName" : "Shy Owl",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "04865AA5",
+      "localizations" : [
+        {
+          "description" : "Adds random owls from the collection.",
+          "displayName" : "Random Owls",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.razeware.course.2020.iap.RandomOwls",
+      "referenceName" : "Random Owls",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
